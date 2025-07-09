@@ -1,0 +1,29 @@
+
+/* media queries */
+/* @media (width<=1400px){
+
+html {
+  /* 1rem=9px */
+  font-size: 56.25%;
+}
+
+.pokemon-card{
+  width:90%;
+}
+.pokemon-name {
+  font-size: 3rem;
+}
+
+}
+@media (width<=1200px){
+  html {
+  /* 1rem=9px */
+  font-size: 54%;
+}
+}
+@media (width<=768px){
+  .grid-three-cols {
+
+  }
+ 
+} */
